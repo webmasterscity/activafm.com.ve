@@ -12,13 +12,7 @@
 </style>
 <body>
 	<div class="row">
-	
-<<<<<<< HEAD
 		<div class="col-md-12" style="text-align:center"><img src="images/fondo_11.jpg"/></div>
-=======
-		<div class="col-md-12" style="text-align:center"><img src="images/fondo_1.jpg"/></div>
->>>>>>> 0467cd3457541ae95fa70ab9f31820a81c0cfe96
-		
 	</div>
 	<div class="row">
 		<div class="col-md-3"></div>
